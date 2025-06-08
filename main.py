@@ -1,6 +1,6 @@
-from ordenamiento import *
+from ordenar import *
 from busqueda import *
-from utils import medir_tiempo
+from timer import medir_tiempo
 
 def mostrar_menu():
     print("\n--- MENÚ PRINCIPAL ---")
