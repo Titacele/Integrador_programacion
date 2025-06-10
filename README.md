@@ -33,7 +33,6 @@ Este proyecto tiene como objetivo implementar y analizar distintos algoritmos cl
 
 ### Herramientas adicionales
 - ⏱ Medición de tiempo de ejecución
-- 📂 Carga de datos desde archivo (`datos_prueba.txt`)
 - 📋 Menú interactivo por consola
 
 ---
@@ -42,18 +41,7 @@ Este proyecto tiene como objetivo implementar y analizar distintos algoritmos cl
 
 - Python 3.10 o superior
 - Editor de texto o IDE (VSCode, PyCharm, IDLE, etc.)
-- Git (opcional para clonar el repositorio)
-
----
-
-## 🚀 Instrucciones de Uso
-
-1. Clonar el repositorio (si aplica):
-   ```bash
-   git clone https://github.com/usuario/busqueda-ordenamiento.git
-   cd busqueda-ordenamiento
-
-
+- Git 
 
 ---
 
