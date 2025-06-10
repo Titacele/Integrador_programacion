@@ -59,6 +59,6 @@ Este proyecto tiene como objetivo implementar y analizar distintos algoritmos cl
 
 ## ⚙️ Video
 
-- Link: 
+- Link: https://www.youtube.com/watch?v=gVILb2dVq38&ab_channel=MatiasRomano
 
 ---
